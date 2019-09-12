@@ -1,4 +1,4 @@
-package com.serviciorest.ServicioRest;
+package com.servicioRest.ServicioRest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.serviciorest.ServicioRest;
+package com.servicioRest.ServicioRest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
