@@ -8,10 +8,10 @@
 		<version>2.1.8.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.servicioRest</groupId>
-	<artifactId>ServicioRest</artifactId>
+	<groupId>com.Puma</groupId>
+	<artifactId>AnfitrionPuma</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ServicioRest</name>
+	<name>AnfitrionPuma</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
