@@ -38,6 +38,7 @@ public class AnfitrionControlador {
                 .orElseThrow(() -> new AnfitrionPNoEncontradoException(id));
     }
 
+
     @PutMapping("/AnfitrionP/{id}")
     AnfitrionP reemplazarAnfitrion(@RequestBody AnfitrionP newAnfitrion, @PathVariable Long id) {
 
